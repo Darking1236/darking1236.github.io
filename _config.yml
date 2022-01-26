@@ -1,6 +1,6 @@
-title: Leaf Blog
+title: Darking
 iconURL: assets/default-icon.png
-theme: jekyll-theme-leaf
+theme: jekyll-theme-cayman
 
 # for a clean URL
 permalink: :slug
